@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
 
-#stats {
-  display: block;
+#card {
+  text-align: center;
+}
+table {
+  display: inline-block;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
 }
