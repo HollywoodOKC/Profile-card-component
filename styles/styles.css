@@ -9,15 +9,19 @@
   font-family: Kumbh Sans, cursive;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 7px;
-  height: 300px;
+  height: 350px;
+  display: block;
 }
 table {
   display: inline-block;
   text-align: center;
 }
-img {
+#profile {
   border-radius: 50%;
 }
 #stats {
   display: inline;
+}
+#background img {
+  width: 100%;
 }
