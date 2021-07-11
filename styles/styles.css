@@ -3,13 +3,13 @@
 #card {
   text-align: center;
   box-shadow: 5px;
-  margin-top: 20%;
+  margin-top: 17%;
   width: 375px;
   margin-left: 35%;
   font-family: Kumbh Sans, cursive;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 7px;
-  height: 400px;
+  height: 425px;
   display: block;
 }
 table {
@@ -35,6 +35,10 @@ table {
   position: absolute;
   padding-bottom: 20%;
 }
+#name {
+  font-size: 18px;
+}
 #stats {
   display: inline;
+  font-size: 18px;
 }
