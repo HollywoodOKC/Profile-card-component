@@ -9,19 +9,31 @@
   font-family: Kumbh Sans, cursive;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 7px;
-  height: 350px;
+  height: 400px;
   display: block;
 }
 table {
   display: inline-block;
   text-align: center;
 }
+#parent {
+  position: relative;
+  right: 50px;
+}
 #profile {
+  position: relative;
+  top: 40px;
+  bottom: 50px;
+  left: 13%;
   border-radius: 50%;
+}
+#background {
+  width: 100%;
+  left: 50px;
+  border-radius: 7px;
+  position: absolute;
+  padding-bottom: 20%;
 }
 #stats {
   display: inline;
-}
-#background img {
-  width: 100%;
 }
