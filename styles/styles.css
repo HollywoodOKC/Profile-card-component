@@ -42,3 +42,6 @@ table {
   display: inline;
   font-size: 18px;
 }
+tr {
+  float: left;
+}
