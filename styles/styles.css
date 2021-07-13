@@ -2,7 +2,7 @@
 body {
   background-color: hsl(185, 75%, 39%);
 }
-#card {
+.card {
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   box-shadow: 5px;
@@ -19,7 +19,7 @@ table {
   display: inline-block;
   text-align: center;
 }
-#parent {
+.parent {
   position: relative;
   right: 50px;
 }
@@ -38,10 +38,10 @@ table {
   position: absolute;
   padding-bottom: 20%;
 }
-#name {
+.name {
   font-size: 18px;
 }
-#stats {
+.stats {
   display: inline;
   font-size: 18px;
 }
